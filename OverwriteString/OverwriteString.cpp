@@ -4,9 +4,9 @@
 
 using namespace std;
 
-// 프로그래머스에서는 const string & 타입은 오류발생
-// 리터럴로 전달해도 오류가 안나던데 왜 오류가 생기는지 모르겠다
-string solution(const string &my_string, const string &overwrite_string, int s)
+
+// 프로그래머스에서는 문제 원형을 변경하진 말자!
+string solution(string my_string, string overwrite_string, int s)
 {
 	string answer = my_string;
 
