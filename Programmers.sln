@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrintAdd", "PrintAdd\PrintA
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrintStickString", "PrintStickString\PrintStickString.vcxproj", "{31E98E33-C616-4E24-B22B-5481D8331DA2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrintTwistString", "PrintTwistString\PrintTwistString.vcxproj", "{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -87,6 +89,14 @@ Global
 		{31E98E33-C616-4E24-B22B-5481D8331DA2}.Release|x64.Build.0 = Release|x64
 		{31E98E33-C616-4E24-B22B-5481D8331DA2}.Release|x86.ActiveCfg = Release|Win32
 		{31E98E33-C616-4E24-B22B-5481D8331DA2}.Release|x86.Build.0 = Release|Win32
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Debug|x64.ActiveCfg = Debug|x64
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Debug|x64.Build.0 = Debug|x64
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Debug|x86.Build.0 = Debug|Win32
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Release|x64.ActiveCfg = Release|x64
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Release|x64.Build.0 = Release|x64
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Release|x86.ActiveCfg = Release|Win32
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +111,7 @@ Global
 		{6392AEDA-8F38-4FDC-8D53-BFC7E40DA7B9} = {8A6721A2-EE02-4939-A674-DEC06AB90C39}
 		{88EA5150-1C09-488D-B974-95FFD49AB264} = {6392AEDA-8F38-4FDC-8D53-BFC7E40DA7B9}
 		{31E98E33-C616-4E24-B22B-5481D8331DA2} = {6392AEDA-8F38-4FDC-8D53-BFC7E40DA7B9}
+		{3BD2DB84-07FF-4FCD-855C-AEAC398865B3} = {6392AEDA-8F38-4FDC-8D53-BFC7E40DA7B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8AFAC8F-65E7-4AE5-B088-EB3435C2A29A}
