@@ -4,6 +4,7 @@
 #include <limits>
 using namespace std;
 
+// 제한사항 잘보자.. numeric_limits안쓰고 원소크기 k의 수만 넘어가도 풀이 가능
 vector<int> solution(vector<int> arr, vector<vector<int>> queries)
 {
 	vector<int> answer;
