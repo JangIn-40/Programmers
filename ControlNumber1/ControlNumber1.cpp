@@ -3,6 +3,7 @@
 #include <iostream>
 using namespace std;
 
+// TODO: day6 수 조작하기1에 신박한 풀이 있음
 int solution(int n, string control)
 {
 	int answer = 0;
