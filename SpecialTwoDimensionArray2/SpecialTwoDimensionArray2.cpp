@@ -3,6 +3,8 @@
 #include <iostream>
 using namespace std;
 
+// TODO: 다른사람 풀이 보기
+// 반쪽만 봐도 가능함
 int solution(vector<vector<int>> arr)
 {
 	int answer = 1;
