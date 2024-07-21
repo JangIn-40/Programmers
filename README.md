@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) &emsp; [점의 위치 구하기](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/FindLocationVertex)
+  - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) &emsp; [구슬을 나누는 경우의 수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfCaseBeadsDivide/NumberOfCaseBeadsDivide.cpp)
+  - [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) &emsp; [가위 바위 보](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RockScissorPaper/RockScissorPaper.cpp)
   - [모스 부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) &emsp; [모스 부호 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/MorseCode(1)/MorseCode(1).cpp)
   - [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) &emsp; [개미 군단](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/LegionAnt/LegionAnt.cpp)
   - [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) &emsp; [순서쌍의 개수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfOrderPairs/NumberOfOrderPairs.cpp)
