@@ -4,6 +4,12 @@
 
 ## LV0
 - **입문 문제**
+  - [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) &emsp;
+  [최댓값 만들기(1)](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/MakeMaximumValue/MakeMaximumValue.cpp)
+  - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) &emsp;
+  [합성수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindCompositionNumber/FindCompositionNumber.cpp)
+  - [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) &emsp;
+  [주사위의 개수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfDice/NumberOfDice.cpp)
   - [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) &emsp; [배열 회전시키기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RotateArray/RotateArray.cpp)
   - [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) &emsp; [공 던지기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/ThrowBall/ThrowBall.cpp)
   - [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) &emsp;
