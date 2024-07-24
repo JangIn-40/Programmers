@@ -4,6 +4,11 @@
 
 ## LV0
 - **입문 문제**
+  - [문자열 졍렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) &emsp; [문자열 정렬하기 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SortString%20(1)/SortString%20(1).cpp)
+  - [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) &emsp;
+  [모음 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveVowels/RemoveVowels.cpp)
+  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) &emsp;
+  [팩토리얼](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Factorial/Factorial.cpp)
   - [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) &emsp;
   [최댓값 만들기(1)](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/MakeMaximumValue/MakeMaximumValue.cpp)
   - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) &emsp;
