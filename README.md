@@ -4,6 +4,10 @@
 
 ## LV0
 - **입문 문제**
+  - [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) &emsp; [컨트롤 제트](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/ControlZ/ControlZ.cpp)
+  - [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) &emsp;
+  [소인수분해](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PrimeFactorization/PrimeFactorization.cpp)
+  - [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) &emsp; [숨어있는 숫자의 덧셈 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddHiddenNumber/AddHiddenNumber.cpp)
   - [문자열 졍렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) &emsp; [문자열 정렬하기 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SortString%20(1)/SortString%20(1).cpp)
   - [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) &emsp;
   [모음 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveVowels/RemoveVowels.cpp)
