@@ -5,7 +5,7 @@ using namespace std;
 
 int solution(vector<int> array, int n)
 {
-	int answer = 0;
+	int answer = array[0];
 
 	int temp{ n };
 	for (const auto &e : array)

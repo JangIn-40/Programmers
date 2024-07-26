@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) &emsp; [암호 해독](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Decode/Decode.cpp)
+  - [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) &emsp; [369게임](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Game369/Game369.cpp)
+  - [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) &emsp; [가까운 수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CloseNumber/CloseNumber.cpp)
   - [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) &emsp; [삼각형의 완성조건 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CompletionConditionTriangle/CompletionConditionTriangle.cpp)
   -[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) &emsp;
   [중복된 문자 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveDuplicateCharacter/RemoveDuplicateCharacter.cpp)
