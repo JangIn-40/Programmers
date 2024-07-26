@@ -4,6 +4,11 @@
 
 ## LV0
 - **입문 문제**
+  - [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) &emsp; [삼각형의 완성조건 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CompletionConditionTriangle/CompletionConditionTriangle.cpp)
+  -[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) &emsp;
+  [중복된 문자 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveDuplicateCharacter/RemoveDuplicateCharacter.cpp)
+  - [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) &emsp;
+  [배열 원소의 길이](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/LengthArrayElement/LengthArrayElement.cpp)
   - [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) &emsp; [컨트롤 제트](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/ControlZ/ControlZ.cpp)
   - [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) &emsp;
   [소인수분해](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PrimeFactorization/PrimeFactorization.cpp)
