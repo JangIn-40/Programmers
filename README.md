@@ -4,6 +4,11 @@
 
 ## LV0
 - **입문 문제**
+  - [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) &emsp; [인덱스 바꾸기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/ChangeIndex/ChangeIndex.cpp)
+  - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) &emsp;
+  [영어가 싫어요](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/HateEnglish/HateEnglish.cpp)
+  - [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) &emsp;
+  [대문자와 소문자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/UppercaseLowercaseLetter/UppercaseLowercaseLetter.cpp)
   - [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) &emsp; [암호 해독](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Decode/Decode.cpp)
   - [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) &emsp; [369게임](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Game369/Game369.cpp)
   - [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) &emsp; [가까운 수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CloseNumber/CloseNumber.cpp)
