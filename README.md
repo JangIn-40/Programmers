@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) &emsp; [편지](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Letter/Letter.cpp)
+  -[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) &emsp; [약수 구하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindDivisor/FindDivisor.cpp)
+  -[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) &emsp; [한 번만 등장한 문자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/OnlyOnceAppearCharacter/OnlyOnceAppearCharacter.cpp)
   - [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) &emsp; [인덱스 바꾸기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/ChangeIndex/ChangeIndex.cpp)
   - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) &emsp;
   [영어가 싫어요](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/HateEnglish/HateEnglish.cpp)
