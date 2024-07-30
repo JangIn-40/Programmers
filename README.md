@@ -4,6 +4,10 @@
 
 ## LV0
 - **입문 문제**
+  - [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) &emsp; [배열의 유사도](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SimilarityOfArrangement/SimilarityOfArrangement.cpp)
+  - [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) &emsp; [문자열 계산하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CalculateString/CalculateString.cpp)
+  -[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) &emsp;
+  [가장 큰 수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindLargestNumber/FindLargestNumber.cpp)
   - [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) &emsp; [편지](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Letter/Letter.cpp)
   -[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) &emsp; [약수 구하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindDivisor/FindDivisor.cpp)
   -[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) &emsp; [한 번만 등장한 문자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/OnlyOnceAppearCharacter/OnlyOnceAppearCharacter.cpp)
