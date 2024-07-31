@@ -4,6 +4,10 @@
 
 ## LV0
 - **입문 문제**
+  - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) &emsp; [자릿수 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddDigit/AddDigit.cpp)
+  - [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) &emsp;
+  [n의 배수 고르기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PickMultipleOfN/PickMultipleOfN.cpp)
+  - [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) &emsp; [숫자 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindNumber/FindNumber.cpp)
   - [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) &emsp; [배열의 유사도](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SimilarityOfArrangement/SimilarityOfArrangement.cpp)
   - [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) &emsp; [문자열 계산하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CalculateString/CalculateString.cpp)
   -[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) &emsp;
