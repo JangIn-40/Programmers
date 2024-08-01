@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 2의 배수는 쉬프트 연산...
+// TODO: 2의 배수는 쉬프트 연산...
 int solution(int n, int t)
 {
 	int answer = n;
