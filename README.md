@@ -4,6 +4,10 @@
 
 ## LV0
 - **입문 문제**
+  - [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) &emsp;
+  [제곱수 판별하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/DetermineSquareNumber/DetermineSquareNumber.cpp)
+  - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) &emsp; [문자열안에 문자열](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/StringInString/StringInString.cpp)
+  - [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) &emsp; [OX퀴즈](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/OXQuiz/OXQuiz.cpp)
   - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) &emsp; [자릿수 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddDigit/AddDigit.cpp)
   - [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) &emsp;
   [n의 배수 고르기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PickMultipleOfN/PickMultipleOfN.cpp)
