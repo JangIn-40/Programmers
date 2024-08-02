@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) &emsp; [7의 개수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfSeven/NumberOfSeven.cpp)
+  - [문자열 정렬하기 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfSeven/NumberOfSeven.cpp) &emsp; [문자열 정렬하기 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SortString%20(2)/SortString%20(2).cpp)
+  - [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) &emsp; [세균 증식](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/BacterialGrowth/BacterialGrowth.cpp)
   - [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) &emsp;
   [제곱수 판별하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/DetermineSquareNumber/DetermineSquareNumber.cpp)
   - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) &emsp; [문자열안에 문자열](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/StringInString/StringInString.cpp)
