@@ -439,3 +439,5 @@ FodyWeavers.xsd
 *.filters
 /Programmers.sln
 /Programmers.sln
+/LV0/introduction/CharacterCoordinates/CharacterCoordinates.cpp
+/LV0/introduction/CharacterCoordinates/CharacterCoordinates.cpp
