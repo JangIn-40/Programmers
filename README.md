@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) &emsp; [숨어있는 숫자의 덧셈 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddHiddenNumber%20(2)/AddHiddenNumber%20(2).cpp)
+  - [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) &emsp; [다항식 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddPolynomial/AddPolynomial.cpp)
+  - [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) &emsp; [최댓값 만들기 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CreateMaximuValue%20(2)/CreateMaximuValue%20(2).cpp)
   - [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) &emsp; [캐릭터의 좌표](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CharacterCoordinates/CharacterCoordinates.cpp)
   - [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) &emsp; [직사각형 넓이 구하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CalculateAreaOfRectangle/CalculateAreaOfRectangle.cpp)
   - [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) &emsp; [잘라서 배열로 저장하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CutAndSaveArray/CutAndSaveArray.cpp)
