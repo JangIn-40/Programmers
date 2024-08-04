@@ -6,22 +6,20 @@ using namespace std;
 int solution(int n)
 {
 	int answer = 0;
-	int temp{}, temp2{}, count{};
-    int divide10{ n / 10 };
 
     for (int i = 0; i < n; ++i)
     {
         while (true)
         {
-            if (answer % 3 == 0)
+            if ((answer + 1) % 3 == 0 && (answer + 1) != 0)
             {
                 ++answer;
             }
-            else if (answer % 10 % 3 == 0 && answer % 10 != 0)
+            else if ((answer + 1) % 10 == 3)
             {
                 ++answer;
             }
-            else if (divide10 % 3 == 0 && divide10 != 0)
+            else if ((answer + 1) / 10 == 3 || (answer + 1) / 10 % 10 == 3)
             {
                 ++answer;
             }
@@ -31,7 +29,6 @@ int solution(int n)
                 break;
             }
         }
-        cout << "n : " << i << " answer : "<< answer << endl;
     }
 
 	return answer;
@@ -39,5 +36,5 @@ int solution(int n)
 
 int main()
 {
-	solution(3);
+	solution(100);
 }
