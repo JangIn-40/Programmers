@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) &emsp; [외계어 사전](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AlienDictionary/AlienDictionary.cpp)
+  - [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) &emsp; [삼각형의 완성조건 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CompletionConditionTriangle%20(2)/CompletionConditionTriangle%20(2).cpp)
+  - [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) &emsp; [안전지대](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SafeZone/SafeZone.cpp)
   - [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) &emsp; [숨어있는 숫자의 덧셈 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddHiddenNumber%20(2)/AddHiddenNumber%20(2).cpp)
   - [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) &emsp; [다항식 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddPolynomial/AddPolynomial.cpp)
   - [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) &emsp; [최댓값 만들기 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CreateMaximuValue%20(2)/CreateMaximuValue%20(2).cpp)
