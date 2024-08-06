@@ -4,6 +4,10 @@
 
 ## LV0
 - **입문 문제**
+  - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) &emsp; [유한소수 판별하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/DiscriminatingFinitePrimeNumber/DiscriminatingFinitePrimeNumber.cpp)
+  - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) &emsp; [겹치는 선분의 길이](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/LengthOfOverlappingLine/LengthOfOverlappingLine.cpp)
+  - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) &emsp; [평행](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Paralle/Parallel.cpp)
+  - [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) &emsp; [저주의 숫자 3](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CurseNumberThree/CurseNumberThree.cpp)
   - [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) &emsp; [외계어 사전](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AlienDictionary/AlienDictionary.cpp)
   - [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) &emsp; [삼각형의 완성조건 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CompletionConditionTriangle%20(2)/CompletionConditionTriangle%20(2).cpp)
   - [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) &emsp; [안전지대](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SafeZone/SafeZone.cpp)
