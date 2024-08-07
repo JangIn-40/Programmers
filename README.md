@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) &emsp; [옹알이 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Babbling/Babbling.cpp)
+  - [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) &emsp; [등수 매기기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Rank/Rank.cpp)
+  - [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) &emsp; [특이한 정렬](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/UnusualAlignment/UnusualSort.cpp)
   - [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) &emsp; [유한소수 판별하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/DiscriminatingFinitePrimeNumber/DiscriminatingFinitePrimeNumber.cpp)
   - [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) &emsp; [겹치는 선분의 길이](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/LengthOfOverlappingLine/LengthOfOverlappingLine.cpp)
   - [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) &emsp; [평행](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Paralle/Parallel.cpp)
