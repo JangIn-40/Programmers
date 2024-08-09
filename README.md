@@ -4,6 +4,9 @@
 
 ## LV0
 - **입문 문제**
+  - [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) &emsp; [문자열 밀기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PushString/PushString.cpp)
+  - [K의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887) &emsp; [K의 개수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfK/NumberOfK.cpp)
+  - [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) &emsp; [A로 B 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/MakeBWithA/MakeBWithA.cpp)
   - [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) &emsp; [이진수 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddBinaryNumber/AddBinaryNumber.cpp)
   - [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) &emsp; [치킨 쿠폰](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/ChickenCoupon/ChickenCoupon.cpp)
   - [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) &emsp; [로그인 성공?](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SuccessLogin/SuccessLogin.cpp)
