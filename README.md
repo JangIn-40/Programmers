@@ -3,14 +3,16 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) &emsp; [대충 만든 자판](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakeRoughlyKeyboard/MakeRoughlyKeyboard.cpp)
+  - [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) &emsp; [덧칠하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/OverPainting/OverPainting.cpp)
+  - [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) &emsp; [바탕화면 정리](https://github.com/JangIn-40/Programmers/blob/master/LV1/DesktopCleanup/DesktopCleanup.cpp)
   - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) &emsp; [공원 산책](https://github.com/JangIn-40/Programmers/blob/master/LV1/WalkPark/WalkPark.cpp)
   - [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) &emsp; [추억 점수](https://github.com/JangIn-40/Programmers/blob/master/LV1/MemoryScore/MemoryScore.cpp)
   - [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) &emsp; [달리기 경주](https://github.com/JangIn-40/Programmers/blob/master/LV1/RunningRace/RunningRace.cpp)
 
 ## LV0
 - **입문 문제**
-  - [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) &emsp;
-  [다음에 올 숫자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NextNumber/NextNumber.cpp)
+  - [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) &emsp; [다음에 올 숫자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NextNumber/NextNumber.cpp)
   - [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) &emsp; [연속된 수의 합](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SumOfConsecutiveNumer/SumOfConsecutiveNumer.cpp)
   - [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) &emsp; [종이 자르기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CutPaper/CutPaper.cpp)
   - [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) &emsp; [문자열 밀기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PushString/PushString.cpp)
@@ -43,48 +45,35 @@
   - [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) &emsp; [문자열안에 문자열](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/StringInString/StringInString.cpp)
   - [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) &emsp; [OX퀴즈](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/OXQuiz/OXQuiz.cpp)
   - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) &emsp; [자릿수 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddDigit/AddDigit.cpp)
-  - [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) &emsp;
-  [n의 배수 고르기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PickMultipleOfN/PickMultipleOfN.cpp)
+  - [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) &emsp; [n의 배수 고르기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PickMultipleOfN/PickMultipleOfN.cpp)
   - [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) &emsp; [숫자 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindNumber/FindNumber.cpp)
   - [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) &emsp; [배열의 유사도](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SimilarityOfArrangement/SimilarityOfArrangement.cpp)
   - [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) &emsp; [문자열 계산하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CalculateString/CalculateString.cpp)
-  -[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) &emsp;
-  [가장 큰 수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindLargestNumber/FindLargestNumber.cpp)
+  -[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) &emsp; [가장 큰 수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindLargestNumber/FindLargestNumber.cpp)
   - [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) &emsp; [편지](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Letter/Letter.cpp)
   -[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) &emsp; [약수 구하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindDivisor/FindDivisor.cpp)
   -[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) &emsp; [한 번만 등장한 문자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/OnlyOnceAppearCharacter/OnlyOnceAppearCharacter.cpp)
   - [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) &emsp; [인덱스 바꾸기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/ChangeIndex/ChangeIndex.cpp)
-  - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) &emsp;
-  [영어가 싫어요](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/HateEnglish/HateEnglish.cpp)
-  - [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) &emsp;
-  [대문자와 소문자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/UppercaseLowercaseLetter/UppercaseLowercaseLetter.cpp)
+  - [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) &emsp; [영어가 싫어요](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/HateEnglish/HateEnglish.cpp)
+  - [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) &emsp; [대문자와 소문자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/UppercaseLowercaseLetter/UppercaseLowercaseLetter.cpp)
   - [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) &emsp; [암호 해독](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Decode/Decode.cpp)
   - [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) &emsp; [369게임](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Game369/Game369.cpp)
   - [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) &emsp; [가까운 수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CloseNumber/CloseNumber.cpp)
   - [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) &emsp; [삼각형의 완성조건 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CompletionConditionTriangle/CompletionConditionTriangle.cpp)
-  -[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) &emsp;
-  [중복된 문자 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveDuplicateCharacter/RemoveDuplicateCharacter.cpp)
-  - [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) &emsp;
-  [배열 원소의 길이](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/LengthArrayElement/LengthArrayElement.cpp)
+  -[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) &emsp; [중복된 문자 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveDuplicateCharacter/RemoveDuplicateCharacter.cpp)
+  - [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) &emsp; [배열 원소의 길이](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/LengthArrayElement/LengthArrayElement.cpp)
   - [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) &emsp; [컨트롤 제트](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/ControlZ/ControlZ.cpp)
-  - [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) &emsp;
-  [소인수분해](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PrimeFactorization/PrimeFactorization.cpp)
+  - [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) &emsp; [소인수분해](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/PrimeFactorization/PrimeFactorization.cpp)
   - [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) &emsp; [숨어있는 숫자의 덧셈 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AddHiddenNumber/AddHiddenNumber.cpp)
   - [문자열 졍렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) &emsp; [문자열 정렬하기 (1)](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SortString%20(1)/SortString%20(1).cpp)
-  - [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) &emsp;
-  [모음 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveVowels/RemoveVowels.cpp)
-  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) &emsp;
-  [팩토리얼](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Factorial/Factorial.cpp)
-  - [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) &emsp;
-  [최댓값 만들기(1)](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/MakeMaximumValue/MakeMaximumValue.cpp)
-  - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) &emsp;
-  [합성수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindCompositionNumber/FindCompositionNumber.cpp)
-  - [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) &emsp;
-  [주사위의 개수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfDice/NumberOfDice.cpp)
+  - [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) &emsp; [모음 제거](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveVowels/RemoveVowels.cpp)
+  - [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) &emsp; [팩토리얼](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/Factorial/Factorial.cpp)
+  - [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) &emsp; [최댓값 만들기(1)](https://github.com/JangIn-40/Programmers/tree/master/LV0/introduction/MakeMaximumValue/MakeMaximumValue.cpp)
+  - [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) &emsp; [합성수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindCompositionNumber/FindCompositionNumber.cpp)
+  - [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) &emsp; [주사위의 개수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfDice/NumberOfDice.cpp)
   - [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) &emsp; [배열 회전시키기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RotateArray/RotateArray.cpp)
   - [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) &emsp; [공 던지기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/ThrowBall/ThrowBall.cpp)
-  - [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) &emsp;
-  [2차원으로 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/MakeTwoDimension/MakeTwoDimension.cpp)
+  - [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) &emsp; [2차원으로 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/MakeTwoDimension/MakeTwoDimension.cpp)
   - [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) &emsp; [점의 위치 구하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/FindLocationVertex/FindLocationVertex.cpp)
   - [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) &emsp; [구슬을 나누는 경우의 수](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NumberOfCaseBeadsDivide/NumberOfCaseBeadsDivide.cpp)
   - [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) &emsp; [가위 바위 보](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RockScissorPaper/RockScissorPaper.cpp)
