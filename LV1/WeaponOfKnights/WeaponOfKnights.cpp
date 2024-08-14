@@ -16,6 +16,10 @@ int solution(int number, int limit, int power)
             if (i % j == 0)
             {
                 ++num;
+                if (j != i / j)
+                {
+                    ++num;
+                }
             }
         }
         cd.emplace_back(num);
