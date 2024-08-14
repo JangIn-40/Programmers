@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) &emsp; [문자열 나누기](https://github.com/JangIn-40/Programmers/blob/master/LV1/DivideString/DivideString.cpp)
+  - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) &emsp; [가장 가까운 같은 글자](https://github.com/JangIn-40/Programmers/blob/master/LV1/ClosestCharacter/ClosestCharacter.cpp)
+  - [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) &emsp; [크기가 작은 부분문자열](https://github.com/JangIn-40/Programmers/blob/master/LV1/SmallPartialString/SmallPartialString.cpp)
   - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) &emsp; [개인정보 수집 유효기간](https://github.com/JangIn-40/Programmers/blob/master/LV1/ExpirationDateOfCollectionOfPersonalInformation/ExpirationDateOfCollectionOfPersonalInformation.cpp)
   - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) &emsp; [둘만의 암호](https://github.com/JangIn-40/Programmers/blob/master/LV1/CodeBetweenTwo/CodeBetweenTwo.cpp)
   - [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) &emsp; [카드 뭉치](https://github.com/JangIn-40/Programmers/blob/master/LV1/CardBundle/CardBundle.cpp)
