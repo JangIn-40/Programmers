@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) &emsp; [과일 장수](https://github.com/JangIn-40/Programmers/blob/master/LV1/FruitVendor/FruitVendor.cpp)
+  - [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) &emsp; [기사단원의 무기](https://github.com/JangIn-40/Programmers/blob/master/LV1/WeaponOfKnights/WeaponOfKnights.cpp)
+  - [명예의 전당](https://school.programmers.co.kr/learn/courses/30/lessons/138477) &emsp; [명예의 전당](https://github.com/JangIn-40/Programmers/blob/master/LV1/HallOfFame/HallOfFame.cpp)
   - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) &emsp; [문자열 나누기](https://github.com/JangIn-40/Programmers/blob/master/LV1/DivideString/DivideString.cpp)
   - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) &emsp; [가장 가까운 같은 글자](https://github.com/JangIn-40/Programmers/blob/master/LV1/ClosestCharacter/ClosestCharacter.cpp)
   - [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) &emsp; [크기가 작은 부분문자열](https://github.com/JangIn-40/Programmers/blob/master/LV1/SmallPartialString/SmallPartialString.cpp)
