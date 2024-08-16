@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128) &emsp; [숫자 짝궁](https://github.com/JangIn-40/Programmers/blob/master/LV1/NumberPair/NumberPair.cpp)
+  - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) &emsp; [삼총사](https://github.com/JangIn-40/Programmers/blob/master/LV1/Trio/Trio.cpp)
+  - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) &emsp; [콜라 문제](https://github.com/JangIn-40/Programmers/blob/master/LV1/ColaQuiz/ColaQuiz.cpp)
   - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) &emsp; [옹알이 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV1/Babbling%20(2)/Babbling%20(2).cpp)
   - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) &emsp; [햄버거 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakeHamburger/MakeHamburger.cpp)
   - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) &emsp; [푸드 파이트 대회](https://github.com/JangIn-40/Programmers/blob/master/LV1/FoodFightContest/FoodFightContest.cpp)
@@ -96,6 +99,7 @@
   - [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) &emsp; [외계행성의 나이](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/AgeOfExoplanet/AgeOfExoplanet.cpp)
   - [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) &emsp; [배열 자르기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CutArray/CutArray.cpp)
   - [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) &emsp; [특정 문자 제거하기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/RemoveSpecificCharacter/RemoveSpecificCharacter.cpp)
+  
 - **기초 문제**
   - [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845) &emsp; [문자열로 변환](https://github.com/JangIn-40/Programmers/blob/master/LV0/Lv0%20Basic/ConvertString/ConvertString.cpp)
   - [문자열을 정수로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181848) &emsp; [문자열을 정수로 변환](https://github.com/JangIn-40/Programmers/blob/master/LV0/Lv0%20Basic/ConvertStringToInteger/ConvertStringToInteger.cpp)
