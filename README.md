@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) &emsp; [옹알이 (2)](https://github.com/JangIn-40/Programmers/blob/master/LV1/Babbling%20(2)/Babbling%20(2).cpp)
+  - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) &emsp; [햄버거 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakeHamburger/MakeHamburger.cpp)
+  - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) &emsp; [푸드 파이트 대회](https://github.com/JangIn-40/Programmers/blob/master/LV1/FoodFightContest/FoodFightContest.cpp)
   - [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) &emsp; [과일 장수](https://github.com/JangIn-40/Programmers/blob/master/LV1/FruitVendor/FruitVendor.cpp)
   - [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) &emsp; [기사단원의 무기](https://github.com/JangIn-40/Programmers/blob/master/LV1/WeaponOfKnights/WeaponOfKnights.cpp)
   - [명예의 전당](https://school.programmers.co.kr/learn/courses/30/lessons/138477) &emsp; [명예의 전당](https://github.com/JangIn-40/Programmers/blob/master/LV1/HallOfFame/HallOfFame.cpp)
