@@ -3,6 +3,10 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) &emsp; [부족한 금액 계산하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/CalculateLessMoney/CalculateLessMoney.cpp)
+  - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) &emsp; [없는 숫자 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/AddNotExistNumber/AddNotExistNumber.cpp)
+  - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) &emsp; [최소직사각형](https://github.com/JangIn-40/Programmers/blob/master/LV1/MinimumRectangle/MinimumRectangle.cpp)
+  - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) &emsp; [나머지가 1이 되는 수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV1/FindNumberWithRemainOne/FindNumberWithRemainOne.cpp)
   - [숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128) &emsp; [숫자 짝궁](https://github.com/JangIn-40/Programmers/blob/master/LV1/NumberPair/NumberPair.cpp)
   - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) &emsp; [삼총사](https://github.com/JangIn-40/Programmers/blob/master/LV1/Trio/Trio.cpp)
   - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) &emsp; [콜라 문제](https://github.com/JangIn-40/Programmers/blob/master/LV1/ColaQuiz/ColaQuiz.cpp)

@@ -9,7 +9,7 @@ long long solution(int price, int money, int count)
     {
         answer += price * i;
     }
-    answer > money ? answer -= money : 0;
+    answer > money ? answer -= money : answer = 0;
 
     return answer;
 }
