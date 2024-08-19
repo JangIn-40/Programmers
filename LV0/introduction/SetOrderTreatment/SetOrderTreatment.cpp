@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// TODO: ´Ù¸¥»ç¶÷ ÄÚµå Áß map»ç¿ë ÀÖÀ½ ÇÑ¹ø º¼°Í
+// TODO: ë‹¤ë¥¸ ì‚¬ëŒ ì½”ë“œ ì¤‘ mapì‚¬ìš© ìˆìŒ í•œë²ˆ ë³¼ê²ƒ
 vector<int> solution(vector<int> emergency)
 {
 	vector<int> answer(emergency.size(), 1);
