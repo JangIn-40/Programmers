@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) &emsp; [자연수 뒤집어 배열로 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakeArrayToReverseInteger/MakeArrayToReverseInteger.cpp)
+  - [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) &emsp; [정수 내림차순으로 배치하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/PlaceDescendingOrderInteger/PlaceDescendingOrderInteger.cpp)
+  - [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) &emsp; [정수 제곱근 판별](https://github.com/JangIn-40/Programmers/blob/master/LV1/DiscriminantIntegerSquareRoot/DiscriminantIntegerSquareRoot.cpp)
   - [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937) &emsp; [짝수와 홀수](https://github.com/JangIn-40/Programmers/blob/master/LV1/OddAndEvenNumber/OddAndEvenNumber.cpp)
   - [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) &emsp; [최대공약수와 최소공배수](https://github.com/JangIn-40/Programmers/blob/master/LV1/GCDAndLCM/GCDAndLCM.cpp)
   - [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) &emsp; [콜라츠 추측](https://github.com/JangIn-40/Programmers/blob/master/LV1/GuessColatz/GuessColatz.cpp)
