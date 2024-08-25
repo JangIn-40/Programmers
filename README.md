@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) &emsp; [약수의 합](https://github.com/JangIn-40/Programmers/blob/master/LV1/SumOfDivisor/SumOfDivisor.cpp)
+  - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) &emsp; [이상한 문자 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakeStrangeCharacter/MakeStrangeCharacter.cpp)
+  - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) &emsp; [자릿수 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/AddDigits/AddDigits.cpp)
   - [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) &emsp; [자연수 뒤집어 배열로 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakeArrayToReverseInteger/MakeArrayToReverseInteger.cpp)
   - [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933) &emsp; [정수 내림차순으로 배치하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/PlaceDescendingOrderInteger/PlaceDescendingOrderInteger.cpp)
   - [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934) &emsp; [정수 제곱근 판별](https://github.com/JangIn-40/Programmers/blob/master/LV1/DiscriminantIntegerSquareRoot/DiscriminantIntegerSquareRoot.cpp)
