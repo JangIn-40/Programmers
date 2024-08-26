@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922) &emsp; [수박수박수박수박수박수?](https://github.com/JangIn-40/Programmers/blob/master/LV1/RepeatString/RepeatString.cpp)
+  - [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) &emsp; [문자열을 정수로 바꾸기](https://github.com/JangIn-40/Programmers/blob/master/LV1/ReplaceStringToInteger/ReplaceStringToInteger.cpp)
+  - [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) &emsp; [시저 암호](https://github.com/JangIn-40/Programmers/blob/master/LV1/CaesarPassword/CaesarPassword.cpp)
   - [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928) &emsp; [약수의 합](https://github.com/JangIn-40/Programmers/blob/master/LV1/SumOfDivisor/SumOfDivisor.cpp)
   - [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) &emsp; [이상한 문자 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakeStrangeCharacter/MakeStrangeCharacter.cpp)
   - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) &emsp; [자릿수 더하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/AddDigits/AddDigits.cpp)
