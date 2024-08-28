@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) &emsp; [문자열 내 마음대로 정렬하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/SortStringAsILike/SortStringAsILike.cpp)
+  - [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) &emsp; [문자열 내 p와 y의 개수](https://github.com/JangIn-40/Programmers/blob/master/LV1/NumberOfPAndYInString/NumberOfPAndYInString.cpp)
+  - [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) &emsp; [문자열 내림차순으로 배치하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/PlaceStringDescendingOrder/PlaceStringDescendingOrder.cpp)
   - [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) &emsp; [문자열 다루기 기본](https://github.com/JangIn-40/Programmers/blob/master/LV1/BasicStringControl/BasicStringControl.cpp)
   - [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919) &emsp; [서울에서 김서방 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV1/FindKimSeobangInSeoul/FindKimSeobangInSeoul.cpp)
   - [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) &emsp; [소수 찾기](https://github.com/JangIn-40/Programmers/blob/master/LV1/FindPrimeNumbers/FindPrimeNumbers.cpp)
