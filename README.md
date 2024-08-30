@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) &emsp; [폰켓몬](https://github.com/JangIn-40/Programmers/blob/master/LV1/PhoneKetMon/PhoneKetMon.cpp)
+  - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) &emsp; [같은 숫자는 싫어](https://github.com/JangIn-40/Programmers/blob/master/LV1/HateSameNumber/HateSameNumber.cpp)
+  - [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) &emsp; [2016년](https://github.com/JangIn-40/Programmers/blob/master/LV1/HateSameNumber/HateSameNumber.cpp)
   - [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) &emsp; [가운데 글자 가져오기](https://github.com/JangIn-40/Programmers/blob/master/LV1/ImportMiddleLetter/ImportMiddleLetter.cpp)
   - [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) &emsp; [나누어 떨어지는 숫자 배열](https://github.com/JangIn-40/Programmers/blob/master/LV1/DivideArrayNumber/DivideArrayNumber.cpp)
   - [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) &emsp; [두 정수 사이의 합](https://github.com/JangIn-40/Programmers/blob/master/LV1/SumOfTwoInteger/SumOfTwoInteger.cpp)
