@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) &emsp; [K번째수](https://github.com/JangIn-40/Programmers/blob/master/LV1/KthNumber/KthNumber.cpp)
+  - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) &emsp; [예산](https://github.com/JangIn-40/Programmers/blob/master/LV1/Budget/Budget.cpp)
+  - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) &emsp; [소수 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakePrimeNumber/MakePrimeNumber.cpp)
   - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) &emsp; [폰켓몬](https://github.com/JangIn-40/Programmers/blob/master/LV1/PhoneKetMon/PhoneKetMon.cpp)
   - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) &emsp; [같은 숫자는 싫어](https://github.com/JangIn-40/Programmers/blob/master/LV1/HateSameNumber/HateSameNumber.cpp)
   - [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) &emsp; [2016년](https://github.com/JangIn-40/Programmers/blob/master/LV1/HateSameNumber/HateSameNumber.cpp)
