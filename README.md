@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) &emsp; [비밀지도](https://github.com/JangIn-40/Programmers/blob/master/LV1/%5BFirst%20Round%5DSecret%20Map/%5BFirst%20Round%5DSecret%20Map.cpp)
+  - [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) &emsp; [다트 게임](https://github.com/JangIn-40/Programmers/blob/master/LV1/%5BFirst%20Round%5DDartGame/%5BFirst%20Round%5DDartGame.cpp)
+  - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) &emsp; [완주하지 못한 선수](https://github.com/JangIn-40/Programmers/blob/master/LV1/NotFinishRunner/NotFinishRunner.cpp)
   - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) &emsp; [K번째수](https://github.com/JangIn-40/Programmers/blob/master/LV1/KthNumber/KthNumber.cpp)
   - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) &emsp; [예산](https://github.com/JangIn-40/Programmers/blob/master/LV1/Budget/Budget.cpp)
   - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) &emsp; [소수 만들기](https://github.com/JangIn-40/Programmers/blob/master/LV1/MakePrimeNumber/MakePrimeNumber.cpp)
