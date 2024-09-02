@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) &emsp; [실패율](https://github.com/JangIn-40/Programmers/blob/master/LV1/FailRate/FailRate.cpp)
+  - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) &emsp; [체육복](https://github.com/JangIn-40/Programmers/tree/master/LV1/WorkoutClothes)
+  - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) &emsp; [모의고사](https://github.com/JangIn-40/Programmers/blob/master/LV1/MockExam/MockExam.cpp)
   - [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) &emsp; [비밀지도](https://github.com/JangIn-40/Programmers/blob/master/LV1/%5BFirst%20Round%5DSecret%20Map/%5BFirst%20Round%5DSecret%20Map.cpp)
   - [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) &emsp; [다트 게임](https://github.com/JangIn-40/Programmers/blob/master/LV1/%5BFirst%20Round%5DDartGame/%5BFirst%20Round%5DDartGame.cpp)
   - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) &emsp; [완주하지 못한 선수](https://github.com/JangIn-40/Programmers/blob/master/LV1/NotFinishRunner/NotFinishRunner.cpp)
