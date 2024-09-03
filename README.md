@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) &emsp; [신규 아이디 추천](https://github.com/JangIn-40/Programmers/blob/master/LV1/RecommendNewID/RecommendNewID.cpp)
+  - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) &emsp; [키패드 누르기](https://github.com/JangIn-40/Programmers/blob/master/LV1/%5BKakao%20Intern%5DPressKeypad/%5BKakao%20Intern%5DPressKeypad.cpp)
+  - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) &emsp; [크레인 인형뽑기 게임](https://github.com/JangIn-40/Programmers/blob/master/LV1/ClawMachineGame/ClawMachineGame.cpp)
   - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) &emsp; [실패율](https://github.com/JangIn-40/Programmers/blob/master/LV1/FailRate/FailRate.cpp)
   - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) &emsp; [체육복](https://github.com/JangIn-40/Programmers/tree/master/LV1/WorkoutClothes)
   - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) &emsp; [모의고사](https://github.com/JangIn-40/Programmers/blob/master/LV1/MockExam/MockExam.cpp)
