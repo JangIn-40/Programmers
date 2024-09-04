@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) &emsp; [신고 결과 받기](https://github.com/JangIn-40/Programmers/blob/master/LV1/GetReportResult/GetReportResult.cpp)
+  - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) &emsp; [숫자 문자열과 영단어](https://github.com/JangIn-40/Programmers/blob/master/LV1/NumberStringAndEnglishWord/NumberStringAndEnglishWord.cpp)
+  - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) &emsp; [로또의 최고 순위와 최저 순위](https://github.com/JangIn-40/Programmers/blob/master/LV1/HighestLowestRankOfLotto/HighestLowestRankOfLotto.cpp)
   - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) &emsp; [신규 아이디 추천](https://github.com/JangIn-40/Programmers/blob/master/LV1/RecommendNewID/RecommendNewID.cpp)
   - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) &emsp; [키패드 누르기](https://github.com/JangIn-40/Programmers/blob/master/LV1/%5BKakao%20Intern%5DPressKeypad/%5BKakao%20Intern%5DPressKeypad.cpp)
   - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) &emsp; [크레인 인형뽑기 게임](https://github.com/JangIn-40/Programmers/blob/master/LV1/ClawMachineGame/ClawMachineGame.cpp)
