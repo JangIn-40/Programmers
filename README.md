@@ -3,6 +3,9 @@
 왼쪽링크가 문제원본이고 오른쪽링크가 풀이입니다.
 
 ## LV1
+  - [이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) &emsp; [이웃한 칸](https://github.com/JangIn-40/Programmers/blob/master/LV1/Number9_AdjacentCompartment/Number9_AdjacentCompartment.cpp)
+  - [붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) &emsp; [붕대 감기](https://github.com/JangIn-40/Programmers/blob/master/LV1/Number1_BandageWrapping/Number1_BandageWrapping.cpp)
+  - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) &emsp; [성격 유형 검사하기](https://github.com/JangIn-40/Programmers/blob/master/LV1/ExaminingPersonalityTypes/ExaminingPersonalityTypes.cpp)
   - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) &emsp; [신고 결과 받기](https://github.com/JangIn-40/Programmers/blob/master/LV1/GetReportResult/GetReportResult.cpp)
   - [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) &emsp; [숫자 문자열과 영단어](https://github.com/JangIn-40/Programmers/blob/master/LV1/NumberStringAndEnglishWord/NumberStringAndEnglishWord.cpp)
   - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) &emsp; [로또의 최고 순위와 최저 순위](https://github.com/JangIn-40/Programmers/blob/master/LV1/HighestLowestRankOfLotto/HighestLowestRankOfLotto.cpp)
