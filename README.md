@@ -90,6 +90,7 @@
 
 ## LV0
 - **입문 문제**
+  - [문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/340207) &emsp; [문자 출력](https://github.com/JangIn-40/Programmers/blob/master/LV0/Number1_PrintCharacter/Number1_PrintCharacter.cpp)
   - [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) &emsp; [다음에 올 숫자](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/NextNumber/NextNumber.cpp)
   - [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) &emsp; [연속된 수의 합](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/SumOfConsecutiveNumer/SumOfConsecutiveNumer.cpp)
   - [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) &emsp; [종이 자르기](https://github.com/JangIn-40/Programmers/blob/master/LV0/introduction/CutPaper/CutPaper.cpp)
